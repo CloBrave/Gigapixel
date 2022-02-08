@@ -1,0 +1,2 @@
+# Gigapixel
+Repositorio para Gigapixel
